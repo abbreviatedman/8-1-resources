@@ -1,4 +1,8 @@
-# 8.1 M6 Resources
+# 8.1 Resources
+
+## Capstones
+
+- [Presentation - Capstone Requirements and Planning Deadlines](http://8-1-capstone-finalization.surge.sh)
 
 ## Git
 
